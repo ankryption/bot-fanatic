@@ -1,0 +1,16 @@
+{
+  "apps" : [{
+    "name"        : "fanatic",
+    "script"      : "login.js",
+    "env": {
+      "DISPLAY": ":99",
+      "DEBUG": ":nightmare"
+    }
+  },
+    {
+      "name"        : "Xvfb",
+      "interpreter" : "none",
+      "script"      : "Xvfb",
+      "args"        : ":99"
+    }]
+}

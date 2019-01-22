@@ -1,0 +1,14 @@
+{
+  "name": "sologin",
+  "version": "1.0.0",
+  "description": "Get yourself a sweet Fanatic badge on SO",
+  "main": "login.js",
+  "scripts": {
+    "start": "node login.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nightmare": "^2.10.0"
+  }
+}
