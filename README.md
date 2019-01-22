@@ -1,4 +1,8 @@
-Put your login into a file called `login.json`.
+##so-fanatic
+
+Earn your `fanatic` badge with a simple bot
+
+Put your login into a file called `config.json`.
 
 I should look like following:
 ```

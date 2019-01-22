@@ -1,12 +1,12 @@
 {
-  "name": "sologin",
+  "name": "so-fanatic",
   "version": "1.0.0",
-  "description": "Get yourself a sweet Fanatic badge on SO",
+  "description": "Earn your `fanatic` badge with a simple bot",
   "main": "login.js",
   "scripts": {
     "start": "node login.js"
   },
-  "author": "",
+  "author": "Ankush Mehta",
   "license": "ISC",
   "dependencies": {
     "nightmare": "^2.10.0"

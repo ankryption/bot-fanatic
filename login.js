@@ -7,7 +7,7 @@ const fs = require('fs');
 const {
   user,
   pass
-} = JSON.parse(fs.readFileSync(`${__dirname}/login.json`, 'utf8'));
+} = JSON.parse(fs.readFileSync(`${__dirname}/config.json`, 'utf8'));
 
 nightmare
   .goto('https://stackoverflow.com/users/login')
