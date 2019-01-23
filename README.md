@@ -18,7 +18,7 @@ vi config.json
 env EDITOR=nano crontab -e
 
 # Setup cron for 6am everyday
-`0 6 * * * cd bot-fanatic && node fanatic.js`
+`0 6 * * * cd ~/path/to/bot-fanatic && node fanatic.js`
 ```
 
 PS
