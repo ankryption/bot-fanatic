@@ -1,4 +1,4 @@
-## so-fanatic
+# so-fanatic
 
 A simple bot built with `nightmare.js` to *earn* your `fanatic` badge on *StackOverflow* 
 
@@ -21,7 +21,9 @@ env EDITOR=nano crontab -e
 `0 6 * * * cd ~/path/to/bot-fanatic && node fanatic.js`
 ```
 
-PS
+----
+
+### Please Note
 If you are running this on `ubuntu` (virtual X server environment), you will need to use  `xvfb-run`  as below
 
 ```bash
