@@ -1,4 +1,4 @@
-# bot-fanatic
+# so-fanatic
 <p align="center">
  <img src="https://media.giphy.com/media/nGnKGLOqzhfGM/giphy.gif" width="400" height="200"/>
 </p>
@@ -24,8 +24,6 @@ env EDITOR=nano crontab -e
 0 6 * * * cd ~/path/to/bot-fanatic && node fanatic.js
 ```
 
-----
-
 ### Please Note
 If you are running this on `ubuntu` (virtual X server environment), you will need to use  `xvfb-run`  as below
 
@@ -36,3 +34,10 @@ apt-get install -y xvfb x11-xkb-utils xfonts-100dpi xfonts-75dpi xfonts-scalable
 # Setup cron for 6am everyday
 0 6 * * * cd bot-fanatic && DEBUG=nightmare xvfb-run -a --server-args="-screen 0 1366x768x24" node fanatic.js
 ```
+
+### License
+
+[MIT][MIT]. See [LICENSE][licence-file] for details.
+
+[MIT]: http://rem.mit-license.org
+[licence-file]: https://github.com/nkshio/bot-fanatic/blob/master/LICENSE
