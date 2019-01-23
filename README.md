@@ -1,8 +1,11 @@
 # so-fanatic
+<p align="center">
+ <img src="https://media.giphy.com/media/nGnKGLOqzhfGM/giphy.gif" width="400" height="200"/>
+</p>
 
 A simple bot built with `nightmare.js` to *earn* your `fanatic` badge on *StackOverflow* 
 
-### Follow the steps below
+### Steps 
 
 ```bash
 # Clone this repository
