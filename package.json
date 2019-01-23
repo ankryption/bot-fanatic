@@ -1,13 +1,13 @@
 {
   "name": "so-fanatic",
   "version": "1.0.0",
-  "description": "Earn your `fanatic` badge with a simple bot",
-  "main": "login.js",
+  "description": "A simple bot to earn your fanatic badge on StackOverflow",
+  "main": "fanatic.js",
   "scripts": {
-    "start": "node login.js"
+    "start": "node fanatic.js"
   },
   "author": "Ankush Mehta",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "nightmare": "^2.10.0"
   }
