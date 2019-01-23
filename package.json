@@ -1,5 +1,5 @@
 {
-  "name": "so-fanatic",
+  "name": "bot-fanatic",
   "version": "1.0.0",
   "description": "A simple bot to earn your fanatic badge on StackOverflow",
   "main": "fanatic.js",

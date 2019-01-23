@@ -1,4 +1,4 @@
-# so-fanatic
+# bot-fanatic
 <p align="center">
  <img src="https://media.giphy.com/media/nGnKGLOqzhfGM/giphy.gif" width="400" height="200"/>
 </p>
